@@ -1,7 +1,7 @@
 # API-Test
 
 Here I have this file with API Test samples, using different parameters in Postaman. 
-As a test I chose to register a client, create a new order, update an order, delete an order, and check the status.
+As a test I chose to: register a client, create a new order, get a tool, update an order, delete an order, and check the status.
 
 <img width="638" alt="register 201" src="https://github.com/IoanaVasarhelyi99/API-Test/assets/135469580/ba2ac89e-cbc9-48ff-b61f-8e2c9444e338">
 
