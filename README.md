@@ -5,6 +5,7 @@ As a test I chose to: register a client, create a new order, get a tool, update 
 
 <img width="638" alt="register 201" src="https://github.com/IoanaVasarhelyi99/API-Test/assets/135469580/ba2ac89e-cbc9-48ff-b61f-8e2c9444e338">
 
+
 <img width="639" alt="register 409" src="https://github.com/IoanaVasarhelyi99/API-Test/assets/135469580/c2d265c4-3c07-4296-81a3-0ac840789586">
 
 <img width="638" alt="register 400" src="https://github.com/IoanaVasarhelyi99/API-Test/assets/135469580/6110e6cb-142f-4aa4-a59e-4651e799a2c9">
