@@ -4,7 +4,7 @@ Here I have this file with API Test samples, using different parameters in Posta
 As a test I chose to: register a client, create a new order, get a tool, update an order, delete an order, and check the status.
 
 <img width="638" alt="register 201" src="https://github.com/IoanaVasarhelyi99/API-Test/assets/135469580/ba2ac89e-cbc9-48ff-b61f-8e2c9444e338">
-&nbsp;
+<space></space>
 
 
 <img width="639" alt="register 409" src="https://github.com/IoanaVasarhelyi99/API-Test/assets/135469580/c2d265c4-3c07-4296-81a3-0ac840789586">
